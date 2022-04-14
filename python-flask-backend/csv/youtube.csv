@@ -1,0 +1,519 @@
+id,channel_name,category,subscribers,audience_country,average_views,average_likes,average_comments
+1,T-Series,Celebrity/ Entertainment,212100000,India,323700,9.8,290
+2,PewDiePie,Celebrity/ Entertainment,111400000,United States,1400000,80.8,4600
+3,MrBeast,Business/ Tech/ Gaming,92500000,United States,30600000,1.7,67700
+4,WWE,Business/ Tech/ Gaming,86900000,United States,76600,2.8,163
+5,Zee Music Company,Celebrity/ Entertainment,82700000,India,108700,4.2,155
+6,Justin Bieber,Celebrity/ Entertainment,68100000,United States,2700000,162.7,7900
+7,Canal KondZilla,Celebrity/ Entertainment,65500000,Brazil,36800,2.3,153
+8,BANGTANTV,Celebrity/ Entertainment,65000000,United States,2800000,598.9,14200
+9,Sony SAB,Celebrity/ Entertainment,64900000,India,46500,899,27
+10,HYBE LABELS,Celebrity/ Entertainment,64700000,United States,401700,62.3,2600
+11,Shemaroo Filmi Gaane,Celebrity/ Entertainment,59200000,India,64500,631,33
+12,Dude Perfect,Business/ Tech/ Gaming,57400000,United States,10300000,375.7,9100
+13,Marshmello,Celebrity/ Entertainment,55000000,United States,636000,47.4,4900
+14,Wave Music,Celebrity/ Entertainment,51500000,India,85800,1.4,155
+15,Sony Music India,Celebrity/ Entertainment,50300000,India,60200,2.6,75
+16,Tips Official,Celebrity/ Entertainment,49900000,India,230800,1.8,85
+17,T-Series Bhakti Sagar,Celebrity/ Entertainment,48300000,India,26400,1.2,73
+18,JuegaGerman,Celebrity/ Entertainment,45500000,Mexico,1400000,140.7,4800
+19,YRF,Celebrity/ Entertainment,45300000,India,184200,5.5,104
+20,Billie Eilish,Celebrity/ Entertainment,45100000,United States,1300000,149.7,7200
+21,whinderssonnunes,Celebrity/ Entertainment,43800000,Brazil,140800,17,145
+22,BRIGHT SIDE,Celebrity/ Entertainment,43200000,United States,79700,1.9,137
+23,Katy Perry,Celebrity/ Entertainment,42600000,United States,151600,10.7,824
+24,Alan Walker,Celebrity/ Entertainment,41600000,United States,146700,12.9,378
+25,SonyMusicIndiaVEVO,Celebrity/ Entertainment,41200000,India,2300,136,19
+26,Speed Records,Celebrity/ Entertainment,40000000,India,42300,1.8,79
+27,A4,Celebrity/ Entertainment,39000000,Russia,12300000,650.5,43900
+28,GR6 EXPLODE,Celebrity/ Entertainment,37200000,Brazil,179600,11.4,190
+29,Ishtar Music,Celebrity/ Entertainment,36500000,India,67800,790,59
+30,Kimberly Loaiza,Travel/ Lifestyle,36000000,Mexico,9200000,646.5,42300
+31,Daddy Yankee,Celebrity/ Entertainment,35800000,Argentina,1700000,174.6,15800
+32,VEGETTA777,Business/ Tech/ Gaming,32900000,Mexico,394200,31.7,256
+33,Goldmines Gaane Sune Ansune,Celebrity/ Entertainment,32700000,India,65700,515,22
+34,Markiplier,Celebrity/ Entertainment,32500000,United States,3000000,165.3,6000
+35,NoCopyrightSounds,Celebrity/ Entertainment,32100000,United States,535500,19.7,1200
+36,Desi Music Factory,Celebrity/ Entertainment,32100000,India,10800000,396.4,143600
+37,Geet MP3,Celebrity/ Entertainment,31900000,India,381400,25.8,1000
+38,T-Series Apna Punjab,Celebrity/ Entertainment,31300000,India,34300,1.4,64
+39,SSSniperWolf,Travel/ Lifestyle,31000000,United States,4900000,141.9,7300
+40,Mikecrack,Celebrity/ Entertainment,30900000,Mexico,3800000,277.4,9600
+41,GENIAL,Celebrity/ Entertainment,30900000,Mexico,74300,2.4,83
+42,Trap Nation,Celebrity/ Entertainment,30500000,United States,129300,4.7,136
+43,SMTOWN,Celebrity/ Entertainment,30200000,United States,478000,54.7,3200
+44,Ricis Official,Celebrity/ Entertainment,29700000,Indonesia,782000,51.6,1800
+45,rezendeevil,Business/ Tech/ Gaming,29700000,Brazil,230700,28.7,463
+46,AH,Celebrity/ Entertainment,29600000,Indonesia,1400000,81.1,4400
+47,Spinnin' Records,Celebrity/ Entertainment,29500000,United States,70300,2.5,71
+48,The Tonight Show Starring Jimmy Fallon,Celebrity/ Entertainment,29300000,United States,88800,2.2,121
+49,Bollywood Classics,Celebrity/ Entertainment,28900000,India,44400,530,39
+50,DisneyMusicVEVO,Celebrity/ Entertainment,28500000,United States,2500000,63.2,2000
+51,Ultra Music,Celebrity/ Entertainment,28300000,United States,30600,1.2,48
+52,jacksepticeye,Business/ Tech/ Gaming,28200000,United States,1900000,127.6,5200
+53,The Weeknd,Celebrity/ Entertainment,27700000,United States,355600,25.3,1100
+54,The Late Late Show with James Corden,Celebrity/ Entertainment,27500000,United States,78100,1.6,112
+55,ImagineDragons,Celebrity/ Entertainment,27500000,United States,1600000,95.8,3600
+56,Worldwide Records Bhojpuri,Celebrity/ Entertainment,26700000,India,119600,1.7,129
+57,Saregama Music,Celebrity/ Entertainment,26600000,India,31600,906,79
+58,MrBeast Gaming,Celebrity/ Entertainment,26500000,United States,23300000,732,44000
+59,TheDonato,Business/ Tech/ Gaming,26500000,Mexico,488100,56.5,240
+60,DanTDM,Business/ Tech/ Gaming,26100000,United States,1300000,59.5,3700
+61,WORLDSTARHIPHOP,Celebrity/ Entertainment,25800000,United States,72700,2.4,267
+62,VanossGaming,Celebrity/ Entertainment,25600000,United States,1200000,57.5,624
+63,enchufetv,Travel/ Lifestyle,25600000,Ecuador,960600,99.9,235
+64,LosPolinesios,Travel/ Lifestyle,25400000,Mexico,620900,45.6,997
+65,Smosh,Celebrity/ Entertainment,25000000,United States,193400,10.8,382
+66,Renato Garcia,Family/ Home/ Parenting,24800000,Brazil,1000000,112.2,1500
+67,WatchMojo.com,Celebrity/ Entertainment,24400000,United States,77700,2.3,231
+68,Jess No Limit,Celebrity/ Entertainment,24400000,Indonesia,363200,15.4,1100
+69,Lucas and Marcus,Celebrity/ Entertainment,24400000,United States,472400,20.3,749
+70,JYP Entertainment,Celebrity/ Entertainment,24200000,United States,2300000,455.2,18400
+71,James Charles,Fashion/ Beauty,24200000,United States,1000000,54.8,2200
+72,David Guetta,Celebrity/ Entertainment,24000000,Brazil,267400,8.7,358
+73,Aditya Music,Celebrity/ Entertainment,23600000,India,49000,1.2,36
+74,Logan Paul,Business/ Tech/ Gaming,23400000,United States,4300000,76.2,3900
+75,Rans Entertainment,Celebrity/ Entertainment,23400000,Indonesia,755700,22.9,675
+76,Netflix,Celebrity/ Entertainment,23200000,United States,265200,5,325
+77,Chloe Ting,Health/ Fitness,23200000,United States,375700,17.3,783
+78,Troom Troom,Family/ Home/ Parenting,23000000,United States,339200,3.7,107
+79,Raffy Tulfo in Action,Celebrity/ Entertainment,23000000,Philippines,399400,5.8,773
+80,Jelly,Business/ Tech/ Gaming,22800000,United States,260000,13.2,450
+81,Coldplay,Celebrity/ Entertainment,22800000,United States,66200,6.9,188
+82,Mister Max,Travel/ Lifestyle,22600000,Russia,988200,22.4,879
+83,Sandeep Maheshwari,Travel/ Lifestyle,22400000,India,652600,38.8,2300
+84,The Chainsmokers,Travel/ Lifestyle,22200000,United States,62400,6.2,97
+85,netd müzik,Celebrity/ Entertainment,22000000,Turkey,15500,355,59
+86,GMM GRAMMY OFFICIAL,Celebrity/ Entertainment,21700000,Thailand,2400,53,2
+87,Anuel AA,Celebrity/ Entertainment,21600000,Colombia,104200,7.4,373
+88,Miss Katy,Business/ Tech/ Gaming,21400000,Russia,604800,11.2,626
+89,Frost Diamond,Celebrity/ Entertainment,21200000,Indonesia,395100,21.3,1200
+90,Tasty,Food,21000000,United States,251500,7.9,239
+91,White Hill Music,Celebrity/ Entertainment,21000000,India,23200,1.2,89
+92,FaZe Rug,Business/ Tech/ Gaming,20800000,United States,2500000,105.9,5900
+93,5-Minute Crafts DIY,Celebrity/ Entertainment,20800000,India,53400,648,18
+94,CanalCanalha,Sports,20700000,Brazil,1100000,127.4,2100
+95,Wave Music Bhojpuri,Celebrity/ Entertainment,20600000,India,8800,139,30
+96,FGTeeV,Celebrity/ Entertainment,20400000,United States,2100000,23.5,2100
+97,BuzzFeedVideo,Travel/ Lifestyle,20400000,United States,56000,1.4,148
+98,Baim Paula,Celebrity/ Entertainment,20400000,Indonesia,1100000,49.8,1900
+99,SSundee,Business/ Tech/ Gaming,20400000,United States,3000000,141.2,4600
+100,AuthenticGames,Business/ Tech/ Gaming,20200000,Brazil,64800,6.1,229
+101,REACT,Travel/ Lifestyle,20200000,United States,89500,3,382
+102,Vevo,Celebrity/ Entertainment,20000000,United States,85600,804,36
+103,SlivkiShow,Travel/ Lifestyle,19800000,Russia,2800000,295,55300
+104,LazarBeam,Business/ Tech/ Gaming,19800000,United States,4200000,160,5900
+105,Becky G,Celebrity/ Entertainment,19800000,United States,57500,5,126
+106,Indosiar Visual Mandiri,Celebrity/ Entertainment,19600000,Indonesia,15700,264,22
+107,Pencilmation,Celebrity/ Entertainment,19600000,United States,390900,3.4,96
+108,Preston,Celebrity/ Entertainment,19400000,United States,2800000,68.6,3600
+109,Mnet K-POP,Celebrity/ Entertainment,19400000,United States,31100,2.6,112
+110,Charlie Puth,Celebrity/ Entertainment,19200000,United States,464700,34,802
+111,Rotana,Celebrity/ Entertainment,19200000,Saudi Arabia,1300000,22,533
+112,Crafty Panda,Celebrity/ Entertainment,19100000,India,75000,540,15
+113,Noor Stars,Celebrity/ Entertainment,19100000,Iraq,2000000,161.3,12100
+114,Troom Troom Es,Family/ Home/ Parenting,19000000,Mexico,120500,2.7,58
+115,The ACE Family,Travel/ Lifestyle,19000000,United States,1400000,73.8,3600
+116,Gordon Ramsay,Food,18800000,United States,218100,7.2,338
+117,Tlnovelas,Food,18800000,Mexico,26800,310,13
+118,Infinite,Business/ Tech/ Gaming,18800000,United States,528700,24.3,1900
+119,Dr. Vivek Bindra: Motivational Speaker,Education,18800000,India,290000,18.2,222
+120,Fatos Desconhecidos,Business/ Tech/ Gaming,18600000,Brazil,242100,23.1,636
+121,Jimmy Kimmel Live,Celebrity/ Entertainment,18400000,United States,202900,4.9,288
+122,Marvel Entertainment,Celebrity/ Entertainment,18400000,United States,347200,26.3,1000
+123,Robin Hood Gamer,Celebrity/ Entertainment,18400000,Brazil,1300000,59,1100
+124,Unbox Therapy,Business/ Tech/ Gaming,18200000,United States,1300000,17.7,2000
+125,NBA,Sports,18200000,United States,49400,1.6,92
+126,Kurzgesagt – In a Nutshell,Education,18200000,United States,7700000,354.7,15700
+127,Sonotek,Celebrity/ Entertainment,18000000,India,34100,1.2,127
+128,GEN HALILINTAR,Celebrity/ Entertainment,18000000,Indonesia,747500,39.9,726
+129,INCRÍVEL,Celebrity/ Entertainment,17800000,Brazil,32500,1.8,47
+130,Dan-Sa / Daniel Saboya,Celebrity/ Entertainment,17800000,Brazil,33900,1.6,20
+131,Ninja Kidz TV,Business/ Tech/ Gaming,17600000,United States,2500000,22.4,1100
+132,Brent Rivera,Celebrity/ Entertainment,17600000,United States,3900000,281.5,11500
+133,TheGrefg,Celebrity/ Entertainment,17500000,Spain,1400000,97,1500
+134,Ali-A,Business/ Tech/ Gaming,17500000,United States,691200,20.1,847
+135,HiMan,Business/ Tech/ Gaming,17500000,Russia,1200000,102.3,351
+136,Good Mythical Morning,Food,17500000,United States,1300000,40.2,1400
+137,CookieSwirlC,Business/ Tech/ Gaming,17500000,United States,411800,4.7,842
+138,ElTrollino,Celebrity/ Entertainment,17500000,Mexico,3300000,101,2500
+139,Naisa Alifia Yuriza (N.A.Y),Celebrity/ Entertainment,17500000,Indonesia,504700,19.9,757
+140,MiawAug,Business/ Tech/ Gaming,17300000,Indonesia,1300000,67.3,4900
+141,RsiamMusic : อาร์สยาม,Celebrity/ Entertainment,17300000,Thailand,8400,306,10
+142,Emiway Bantai,Celebrity/ Entertainment,17300000,India,864400,106.6,7300
+143,Netflix India,Food,17300000,India,61900,2.8,72
+144,Farruko,Celebrity/ Entertainment,17300000,United States,493200,22.3,807
+145,Marmok,Business/ Tech/ Gaming,17300000,Russia,3800000,437.5,15100
+146,Porta dos Fundos,Celebrity/ Entertainment,17300000,Brazil,639800,62.8,808
+147,Willyrex,Business/ Tech/ Gaming,17100000,Mexico,147500,10,96
+148,Surya Citra Televisi,Celebrity/ Entertainment,17100000,Indonesia,23600,433,39
+149,Sebastián Yatra,Celebrity/ Entertainment,17100000,Colombia,1800000,55.5,1200
+150,Познаватель,Family/ Home/ Parenting,16900000,Russia,3400000,92.3,3200
+151,RobleisIUTU,Celebrity/ Entertainment,16900000,Argentina,1200000,79.3,2300
+152,The Royalty Family,Travel/ Lifestyle,16700000,United States,2800000,81.7,10700
+153,الـريماس - Al-Remas,Celebrity/ Entertainment,16700000,Iraq,66500,3.3,166
+154,Grammy Gold Official,Celebrity/ Entertainment,16700000,Thailand,12100,198,19
+155,IGN,Celebrity/ Entertainment,16500000,United States,65800,1.5,150
+156,TED-Ed,Business/ Tech/ Gaming,16500000,United States,330200,15.1,633
+157,Jason Derulo,Celebrity/ Entertainment,16500000,United States,73900,5.2,81
+158,Tu COSMOPOLIS,Travel/ Lifestyle,16500000,Mexico,211100,17.1,1200
+159,DeToxoMoroxo,Celebrity/ Entertainment,16500000,Mexico,835100,37.5,10600
+160,LankyBox,Business/ Tech/ Gaming,16500000,United States,1100000,15.2,500
+161,invictor,Business/ Tech/ Gaming,16400000,Mexico,2900000,97.4,2200
+162,TheBrianMaps,Business/ Tech/ Gaming,16300000,Russia,2600000,314.6,12700
+163,Rafa & Luiz,Business/ Tech/ Gaming,16300000,Brazil,579700,39.2,1400
+164,SUPER SLICK SLIME SAM,Travel/ Lifestyle,16200000,Mexico,228200,7.3,268
+165,Jane ASMR 제인,Travel/ Lifestyle,16100000,United States,438700,8.6,498
+166,Anitta,Celebrity/ Entertainment,16100000,Brazil,316400,12.3,488
+167,jeffreestar,Fashion/ Beauty,16100000,United States,878500,36.7,3200
+168,Canal IN,Family/ Home/ Parenting,16100000,Brazil,26200,1.6,16
+169,Manual do Mundo,Business/ Tech/ Gaming,16100000,Brazil,488800,69.8,740
+170,Antrax,Business/ Tech/ Gaming,16100000,Mexico,935800,88.1,543
+171,zbing z.,Celebrity/ Entertainment,15900000,Thailand,657300,26.3,1100
+172,Little Mix,Celebrity/ Entertainment,15900000,United States,104200,10,160
+173,Kaykai Salaider,Celebrity/ Entertainment,15700000,Thailand,1400000,104,8200
+174,Boyce Avenue,Celebrity/ Entertainment,15700000,Brazil,338500,8,355
+175,FailArmy,Celebrity/ Entertainment,15700000,United States,2200000,19.9,642
+176,DopeLyrics,Celebrity/ Entertainment,15700000,United States,31700,615,50
+177,DUDU e CAROL,Family/ Home/ Parenting,15700000,Brazil,1400000,65.9,142
+178,Queen Official,Celebrity/ Entertainment,15700000,United States,123300,4.2,491
+179,Movieclips Trailers,Celebrity/ Entertainment,15700000,United States,58200,903,74
+180,The Game Theorists,Business/ Tech/ Gaming,15700000,United States,3100000,163.8,8200
+181,Khan GS Research Centre,Education,15600000,India,9100000,641.5,44700
+182,SonyMusicSouthVEVO,Celebrity/ Entertainment,15500000,India,110200,4.1,40
+183,Roman Atwood Vlogs,Travel/ Lifestyle,15500000,United States,677400,33.8,1200
+184,Marques Brownlee,Business/ Tech/ Gaming,15500000,United States,2900000,119.2,6500
+185,Aayu and Pihu Show,Celebrity/ Entertainment,15500000,India,4300000,111.3,7700
+186,tanboy kun,Celebrity/ Entertainment,15400000,Indonesia,2200000,56.8,2000
+187,Triggered Insaan,Travel/ Lifestyle,15400000,India,6400000,800.9,26500
+188,7clouds,Celebrity/ Entertainment,15300000,United States,185400,3,140
+189,Dyland PROS,Celebrity/ Entertainment,15300000,Indonesia,92100,7.7,448
+190,Camila Cabello,Celebrity/ Entertainment,15300000,United States,109400,14.2,146
+191,Jennifer Lopez,Fashion/ Beauty,15300000,United States,401900,12.1,1200
+192,AdMe.ru - Сайт о творчестве,Celebrity/ Entertainment,15300000,Russia,51900,1.5,83
+193,Ivana Alawi,Travel/ Lifestyle,15300000,Philippines,2700000,122.6,11000
+194,FitDance,Celebrity/ Entertainment,15100000,Brazil,46300,1.3,23
+195,Kerajinan 5-Menit,Celebrity/ Entertainment,15100000,Indonesia,20800,221,10
+196,Pop Chartbusters,Celebrity/ Entertainment,15100000,India,20200,366,21
+197,Gato Galactico | GALÁXIA,Family/ Home/ Parenting,15100000,Brazil,79600,4.7,106
+198,wifistudy,Education,15000000,India,7400,645,15
+199,Dhar Mann,Travel/ Lifestyle,15000000,United States,6200000,140.9,6300
+200,JJ Olatunji,Celebrity/ Entertainment,14900000,United States,4800000,429.5,9600
+201,Kwebbelkop,Celebrity/ Entertainment,14900000,United States,218800,17.5,882
+202,RCTI - LAYAR DRAMA INDONESIA,Celebrity/ Entertainment,14900000,Indonesia,26100,455,23
+203,Ranz Kyle,Travel/ Lifestyle,14900000,Philippines,362300,15,507
+204,Makiman131,Business/ Tech/ Gaming,14900000,Spain,393800,25.4,795
+205,Lachlan,Business/ Tech/ Gaming,14900000,United States,864600,34.6,935
+206,Lilly Singh,Celebrity/ Entertainment,14700000,United States,94800,6.6,103
+207,LEGENDA FUNK,Celebrity/ Entertainment,14700000,Brazil,9300,529,22
+208,Planeta das Gêmeas,Family/ Home/ Parenting,14700000,Brazil,531200,23.2,22
+209,Niana Guerrero,Celebrity/ Entertainment,14500000,Philippines,732400,41,1600
+210,Sidemen,Business/ Tech/ Gaming,14500000,United Kingdom,5900000,276.4,9500
+211,Zé Neto e Cristiano,Celebrity/ Entertainment,14500000,Brazil,5300000,44,643
+212,RKD Studios,Celebrity/ Entertainment,14500000,India,42600,870,39
+213,Henrique e Juliano,Celebrity/ Entertainment,14500000,Brazil,96800,4.1,75
+214,MattyBRaps,Celebrity/ Entertainment,14500000,United States,512600,8,413
+215,CollegeHumor,Travel/ Lifestyle,14500000,United States,194600,8.4,360
+216,La Rosa de Guadalupe,Celebrity/ Entertainment,14500000,Mexico,361000,3.2,81
+217,Linus Tech Tips,Business/ Tech/ Gaming,14500000,United States,1500000,63.5,2500
+218,T3ddy,Travel/ Lifestyle,14400000,Brazil,1100000,140.1,5600
+219,XpressTV,Business/ Tech/ Gaming,14300000,Mexico,1500000,62.2,764
+220,Harsh Beniwal,Celebrity/ Entertainment,14300000,India,11600000,1.3,55400
+221,Chad Wild Clay,Celebrity/ Entertainment,14300000,United States,2300000,43.8,7400
+222,Martin Garrix,Celebrity/ Entertainment,14300000,United States,59600,1.9,125
+223,Canal Nostalgia,Business/ Tech/ Gaming,14300000,Brazil,265100,36.8,536
+224,The Slow Mo Guys,Education,14300000,United States,1200000,72.7,3200
+225,MK MUSIC,Celebrity/ Entertainment,14200000,Brazil,53300,2.8,122
+226,Mobile Legends: Bang Bang Official,Celebrity/ Entertainment,14100000,Indonesia,259300,2.4,21
+227,Trap City,Celebrity/ Entertainment,14100000,United States,44400,1.8,77
+228,Camila Loures,Food,14100000,Brazil,310400,28.2,456
+229,Genierock,Celebrity/ Entertainment,14100000,Thailand,16500,340,20
+230,It's Mamix,Travel/ Lifestyle,14100000,Russia,2800000,276.3,14900
+231,Arif muhammad,Celebrity/ Entertainment,13900000,Indonesia,3000000,93.5,3200
+232,AM3NlC,Food,13900000,Brazil,215900,24.5,266
+233,GMMTV OFFICIAL​​,Celebrity/ Entertainment,13900000,Thailand,26500,779,29
+234,Mohamed Ramadan I محمد رمضان,Celebrity/ Entertainment,13900000,Egypt,761500,28.2,1800
+235,F2Freestylers - Ultimate Soccer Skills Channel,Sports,13900000,United Kingdom,208300,9.4,111
+236,Bollywood Classics,Celebrity/ Entertainment,13900000,India,40400,329,15
+237,Wengie,Travel/ Lifestyle,13900000,United States,84800,5.7,170
+238,Sourav Joshi Vlogs,Travel/ Lifestyle,13900000,India,6300000,571.5,17000
+239,Team Films Bhojpuri,Celebrity/ Entertainment,13800000,India,8200,229,46
+240,SOMOY TV,Travel/ Lifestyle,13800000,Bangladesh,8600,179,15
+241,Zach Choi ASMR,Travel/ Lifestyle,13700000,United States,765600,40,1300
+242,Mis Pastelitos,Food,13700000,Mexico,2300000,109.6,3600
+243,Трум Трум,Travel/ Lifestyle,13700000,Russia,450800,6.1,205
+244,Darkar Company Studios,Celebrity/ Entertainment,13700000,Mexico,416100,48.8,678
+245,Dang Matt Smith,Celebrity/ Entertainment,13500000,United States,287900,9.3,642
+246,Zee Music Classic,Celebrity/ Entertainment,13500000,India,27700,205,22
+247,AzzyLand,Celebrity/ Entertainment,13500000,United States,198500,7.3,455
+248,TWICE,Celebrity/ Entertainment,13500000,Philippines,793700,78.1,2600
+249,The World Adventures हिन्दी,Travel/ Lifestyle,13500000,India,46700,2.5,60
+250,Zach King,Travel/ Lifestyle,13500000,United States,1200000,82.3,1000
+251,Lahari Music | T-Series,Celebrity/ Entertainment,13500000,India,54900,2.1,56
+252,NOBRU,Business/ Tech/ Gaming,13300000,Brazil,109700,12.2,285
+253,FC Barcelona,Sports,13300000,India,207500,13.2,356
+254,CrashCourse,Business/ Tech/ Gaming,13300000,United States,47600,1.7,37
+255,UFC - Ultimate Fighting Championship,Sports,13300000,United States,155200,2.9,347
+256,Дима Масленников,Business/ Tech/ Gaming,13300000,Russia,4800000,436.9,14300
+257,TazerCraft,Celebrity/ Entertainment,13300000,Brazil,352800,26.8,532
+258,Rosanna Pansino,Food,13300000,United States,206000,8.4,102
+259,Kuplinov ► Play,Business/ Tech/ Gaming,13300000,Russia,1200000,67.7,2500
+260,EdisonPts,Business/ Tech/ Gaming,13300000,Russia,2000000,153.8,7600
+261,MNCTV Official,Celebrity/ Entertainment,13200000,Indonesia,4100,126,6
+262,Bizarrap,Celebrity/ Entertainment,13100000,Argentina,80500000,5.6,313600
+263,Atlantic Records,Celebrity/ Entertainment,13100000,United States,9600,325,17
+264,CoryxKenshin,Business/ Tech/ Gaming,13100000,United States,4700000,338.8,20600
+265,theRadBrad,Business/ Tech/ Gaming,13100000,United States,186400,8.8,613
+266,MyMissAnand,Celebrity/ Entertainment,13100000,India,2100000,80.9,1200
+267,TV Ana Emilia,Fashion/ Beauty,13100000,Mexico,425600,14.1,1400
+268,Anaysa,Travel/ Lifestyle,13100000,India,933600,38,1400
+269,Auron,Business/ Tech/ Gaming,13100000,Mexico,2200000,137.7,1700
+270,Unspeakable,Business/ Tech/ Gaming,13000000,United States,1900000,39.3,2200
+271,Everson Zoio,Travel/ Lifestyle,12900000,Brazil,631000,80.1,2800
+272,50 Cent,Celebrity/ Entertainment,12900000,United States,100700,5.8,431
+273,Matt Steffanina,Celebrity/ Entertainment,12900000,United States,124500,7.8,104
+274,Saturday Night Live,Celebrity/ Entertainment,12900000,United States,1100000,19.2,858
+275,Lyna,Celebrity/ Entertainment,12900000,Argentina,737100,37.7,1700
+276,Aphmau,Celebrity/ Entertainment,12700000,United States,3900000,84.6,4200
+277,Aadishakti Films,Celebrity/ Entertainment,12700000,India,39000,1.4,152
+278,Conor Maynard,Celebrity/ Entertainment,12700000,United States,305800,21.4,578
+279,twenty one pilots,Celebrity/ Entertainment,12700000,United States,1700000,153.9,7200
+280,Поззи,Business/ Tech/ Gaming,12700000,Russia,1400000,87.7,4700
+281,TKOR,Travel/ Lifestyle,12700000,United States,107100,3.8,256
+282,Typical Gamer,Business/ Tech/ Gaming,12700000,United States,804400,14.3,474
+283,123 GO! Spanish,Family/ Home/ Parenting,12700000,Mexico,888000,11.8,235
+284,Health Time,Travel/ Lifestyle,12600000,India,12600,467,16
+285,Wish 107.5,Celebrity/ Entertainment,12600000,Philippines,146800,4.4,372
+286,Nisha Madhulika,Food,12500000,India,220600,5.2,934
+287,Knowledge Tv हिन्दी,Education,12500000,India,158700,9.4,468
+288,ATHLEAN-X™,Health/ Fitness,12500000,United States,395600,19,693
+289,People Vs Food,Food,12500000,United States,464200,18,1000
+290,PrestonPlayz,Business/ Tech/ Gaming,12500000,United States,2100000,48.8,4000
+291,BUDI01 GAMING,Business/ Tech/ Gaming,12500000,Indonesia,1100000,91.5,7100
+292,Hacksmith Industries,Travel/ Lifestyle,12500000,United States,896700,46.3,1800
+293,JesseAndMike,Travel/ Lifestyle,12400000,United States,523800,6.6,152
+294,Hongyu ASMR 홍유,Food,12300000,United States,1300000,15.6,646
+295,Lokdhun Punjabi,Celebrity/ Entertainment,12300000,India,16200,346,8
+296,Piuzinho,Business/ Tech/ Gaming,12300000,Brazil,233300,45.8,625
+297,Meghan Trainor,Celebrity/ Entertainment,12300000,United States,11400,564,35
+298,Juliana Baltar,Family/ Home/ Parenting,12300000,Brazil,286600,18.6,335
+299,Stokes Twins,Travel/ Lifestyle,12300000,United States,9900000,281.5,19400
+300,Adexe & Nau,Celebrity/ Entertainment,12300000,Mexico,38300,4.4,367
+301,gymvirtual,Celebrity/ Entertainment,12300000,Mexico,76400,3.5,89
+302,Ei Nerd,Celebrity/ Entertainment,12300000,Brazil,265400,42.3,1200
+303,Alex Gonzaga Official,Celebrity/ Entertainment,12300000,Philippines,2900000,116.6,2900
+304,Gibby :),Travel/ Lifestyle,12300000,Mexico,582600,28.4,1800
+305,Troom Troom PT,Family/ Home/ Parenting,12300000,Brazil,201400,4.7,58
+306,Jazzghost,Celebrity/ Entertainment,12300000,Brazil,758700,55.9,2000
+307,Bela Bagunça,Family/ Home/ Parenting,12300000,Brazil,74800,4.4,148
+308,T-Series Regional,Celebrity/ Entertainment,12100000,India,6900,148,18
+309,Brawl Stars,Celebrity/ Entertainment,12100000,United States,6400000,181.2,6900
+310,Crescendo com Luluca,Family/ Home/ Parenting,12100000,Brazil,1300000,52.8,4400
+311,PowerfulJRE,Travel/ Lifestyle,12100000,United States,498900,14.7,1800
+312,NORMAN FAIT DES VIDÉOS,Celebrity/ Entertainment,12100000,France,1800000,168.2,6900
+313,Awakening Music,Celebrity/ Entertainment,12100000,Indonesia,16800,1.2,60
+314,Zeinab Harake,Travel/ Lifestyle,11900000,Philippines,1300000,71.2,1800
+315,Migos ATL,Celebrity/ Entertainment,11900000,United States,3300000,131,5300
+316,DaniRep | +6 Vídeos Diarios De GTA 5 Online!,Celebrity/ Entertainment,11900000,Mexico,349900,19.5,346
+317,colinfurze,Travel/ Lifestyle,11900000,United States,1100000,36.8,1100
+318,Planet Earth INDIA,Travel/ Lifestyle,11900000,India,459800,18.1,460
+319,Dear Sir,Education,11900000,India,261400,15.6,1200
+320,Jass Records,Celebrity/ Entertainment,11800000,India,223800,3.5,410
+321,ГЛЕНТ,Business/ Tech/ Gaming,11800000,Russia,3300000,281.7,9500
+322,Study IQ education,Education,11700000,India,11400,519,12
+323,FrontaL Gaming,Celebrity/ Entertainment,11700000,Indonesia,490800,35.5,1800
+324,Blockbuster Movies,Travel/ Lifestyle,11700000,India,118500,1.1,23
+325,Avril Lavigne,Celebrity/ Entertainment,11700000,United States,2800000,130.4,6500
+326,Dani Russo Tv,Celebrity/ Entertainment,11700000,Brazil,10900,1.4,121
+327,MORGENSHTERN,Travel/ Lifestyle,11700000,Russia,11000000,789.9,54800
+328,Rebecca Zamolo,Business/ Tech/ Gaming,11700000,United States,2800000,70.6,6900
+329,TommyInnit,Celebrity/ Entertainment,11700000,United States,3400000,294.6,14400
+330,The Infographics Show,Education,11700000,United States,348800,10.3,764
+331,Veritasium,Business/ Tech/ Gaming,11700000,United States,3900000,169.3,7800
+332,T-Series Hamaar Bhojpuri,Celebrity/ Entertainment,11700000,India,13500,177,17
+333,YOLO AVENTURAS,Travel/ Lifestyle,11600000,Colombia,838400,74.9,7000
+334,Panda,Celebrity/ Entertainment,11600000,India,1100000,103.7,1900
+335,Troom Troom Indonesia,Family/ Home/ Parenting,11600000,Indonesia,256700,2.5,96
+336,RaptorGamer,Business/ Tech/ Gaming,11500000,Mexico,741400,46.5,1500
+337,CrazyRussianHacker,Travel/ Lifestyle,11500000,United States,75100,2.3,139
+338,Codiscos,Celebrity/ Entertainment,11500000,Colombia,9400,195,7
+339,LIV Crime,Travel/ Lifestyle,11500000,India,271600,2.6,72
+340,Wassabi,Travel/ Lifestyle,11500000,United States,692400,47.6,4800
+341,Think Music India,Celebrity/ Entertainment,11500000,India,75400,3.2,106
+342,BanderitaX,Celebrity/ Entertainment,11500000,Saudi Arabia,1400000,101.2,3800
+343,Vogue,Fashion/ Beauty,11500000,United States,324200,13.3,412
+344,Luan Santana,Celebrity/ Entertainment,11500000,Brazil,3400000,54.9,4700
+345,FIFA,Sports,11500000,United States,63400,1.9,152
+346,Davie504,Celebrity/ Entertainment,11500000,United States,2000000,194.4,1400
+347,Mor Haryanvi,Celebrity/ Entertainment,11500000,India,3300000,49,6300
+348,ExpCaseros,Travel/ Lifestyle,11500000,Spain,54100,2.3,98
+349,TsMadaan,Education,11500000,India,64100,1.5,102
+350,Coke Studio,Celebrity/ Entertainment,11300000,Pakistan,185300,5.4,208
+351,DeGoBooM,Business/ Tech/ Gaming,11300000,Mexico,426000,16.3,263
+352,Sonotek Bhakti,Celebrity/ Entertainment,11300000,India,101800,149,55
+353,Timba Vk,Business/ Tech/ Gaming,11300000,Mexico,1500000,63.8,1600
+354,Yudist Ardhana,Business/ Tech/ Gaming,11300000,Indonesia,330400,11.2,451
+355,Rubius Z,Business/ Tech/ Gaming,11300000,Argentina,2300000,194.6,2200
+356,LipaoGamer,Celebrity/ Entertainment,11300000,Brazil,164500,12.4,168
+357,CaptainSparklez,Business/ Tech/ Gaming,11300000,United States,111200,8,436
+358,Wild 'N Out,Celebrity/ Entertainment,11300000,United States,221000,4.7,180
+359,DANIEL EL TRAVIESO VIDEOS,Celebrity/ Entertainment,11300000,Colombia,959700,32.2,1200
+360,UnspeakableGaming,Business/ Tech/ Gaming,11300000,United States,857500,16.5,783
+361,Wave Music Bhakti,Celebrity/ Entertainment,11300000,India,7000,106,16
+362,Sony Music South,Celebrity/ Entertainment,11300000,India,265300,5.5,135
+363,Vy Qwaint,Business/ Tech/ Gaming,11200000,United States,2200000,43.2,7000
+364,Hero Movies 2022,Travel/ Lifestyle,11100000,India,177700,1.2,22
+365,123 GO!,Travel/ Lifestyle,11100000,United States,656000,5.9,183
+366,Compot,Business/ Tech/ Gaming,11100000,Russia,1700000,74.4,2900
+367,Fortnite,Business/ Tech/ Gaming,11100000,United States,321300,10.3,433
+368,Magic Five,Business/ Tech/ Gaming,11100000,Russia,4000000,230.2,17100
+369,First We Feast,Food,11100000,United States,308200,14.1,689
+370,Annoying Orange,Celebrity/ Entertainment,11100000,United States,121500,2.8,361
+371,El Rincón De Giorgio,Business/ Tech/ Gaming,11100000,Spain,1800000,170.4,3100
+372,ExplosmEntertainment,Celebrity/ Entertainment,11100000,United States,711200,45.2,2200
+373,Yoga With Adriene,Health/ Fitness,11100000,United States,952000,19.7,702
+374,Mo Vlogs,Travel/ Lifestyle,11100000,India,401500,24.2,909
+375,Star Casablanca | نجوم الدار البيضاء,Celebrity/ Entertainment,11100000,Iraq,46500,2.2,164
+376,Free Fire India Official,Celebrity/ Entertainment,11100000,India,177700,15.6,821
+377,Lil Wayne,Celebrity/ Entertainment,11100000,United States,2000000,100.1,4800
+378,Alejo Igoa,Travel/ Lifestyle,11000000,Argentina,4100000,142.2,4000
+379,Simone e Simaria,Celebrity/ Entertainment,10900000,Brazil,2400000,57.2,1700
+380,YoungBoy Never Broke Again,Celebrity/ Entertainment,10900000,United States,7600000,274.7,23200
+381,The Viral Fever,Celebrity/ Entertainment,10900000,India,1900000,89.4,3000
+382,Single Track Studio,Celebrity/ Entertainment,10900000,India,989200,29.8,439
+383,Miranda Sings,Travel/ Lifestyle,10900000,United States,153900,10.3,1100
+384,Cut,Travel/ Lifestyle,10900000,United States,409600,16.9,762
+385,Луномосик,Business/ Tech/ Gaming,10900000,Russia,2500000,83.9,2900
+386,Tyga,Celebrity/ Entertainment,10900000,United States,45600,3.1,83
+387,Comedy Central,Travel/ Lifestyle,10900000,United States,42400,924,50
+388,DemolitionRanch,Business/ Tech/ Gaming,10900000,United States,1600000,75.4,5400
+389,Genius,Celebrity/ Entertainment,10900000,United States,52100,2.2,144
+390,E-MasterSensei,Celebrity/ Entertainment,10900000,Mexico,1500000,103.2,1300
+391,BakLol Video,Celebrity/ Entertainment,10900000,India,1400000,33.4,1800
+392,HellomaphieMX,Travel/ Lifestyle,10900000,Mexico,654400,76,284
+393,JP Plays,Business/ Tech/ Gaming,10900000,Brazil,112700,6,207
+394,Dan Rhodes,Celebrity/ Entertainment,10800000,India,334100,29.6,211
+395,Virgínia Fonseca,Travel/ Lifestyle,10700000,Brazil,922600,78.6,1400
+396,The Film Theorists,Celebrity/ Entertainment,10700000,United States,2200000,110.3,5500
+397,Games EduUu,Celebrity/ Entertainment,10700000,Brazil,1500000,218.1,7700
+398,Deji,Celebrity/ Entertainment,10700000,United Kingdom,1500000,50.7,3200
+399,HikakinTV,Celebrity/ Entertainment,10700000,Japan,1200000,42.6,1800
+400,GoPro,Sports,10700000,United States,55300,2.1,59
+401,Slogo,Business/ Tech/ Gaming,10700000,United States,387100,17.8,424
+402,tomiii 11,Travel/ Lifestyle,10700000,Mexico,78500,9.7,445
+403,Narendra Modi,Business/ Tech/ Gaming,10700000,India,31500,1.8,133
+404,Dobre Brothers,Travel/ Lifestyle,10700000,United States,284400,10.2,381
+405,Experienced Mojaraba TV,Travel/ Lifestyle,10700000,United States,190700,5.2,128
+406,Jessica Jane,Food,10500000,Indonesia,826400,46.2,1100
+407,stampylonghead,Business/ Tech/ Gaming,10500000,United States,155900,8.2,759
+408,Flamingo,Celebrity/ Entertainment,10500000,United States,2100000,68.3,7100
+409,Golemcito Games,Business/ Tech/ Gaming,10500000,Peru,2800000,290,6400
+410,Franciny Ehlke,Fashion/ Beauty,10500000,Brazil,197200,19.2,629
+411,As/Is,Fashion/ Beauty,10500000,United States,27100,1.1,12
+412,Chill Nation,Celebrity/ Entertainment,10500000,United States,53700,1.1,46
+413,Acenix,Business/ Tech/ Gaming,10500000,Mexico,2400000,111,2200
+414,"SaraBeautyCorner - DIY, Comedy, Makeup, Nail Art",Travel/ Lifestyle,10500000,United States,133300,7.6,722
+415,Warner Bros. Pictures,Celebrity/ Entertainment,10500000,United States,424800,17.7,861
+416,Red Bull,Sports,10500000,United States,292500,5.2,246
+417,Stone Music Entertainment,Celebrity/ Entertainment,10500000,United States,8400,719,34
+418,Brancoala,Family/ Home/ Parenting,10500000,Brazil,398200,8.2,202
+419,Sidhu Moose Wala,Celebrity/ Entertainment,10400000,India,3900000,336,59000
+420,Matheus e Kauan,Celebrity/ Entertainment,10300000,Brazil,6200,663,11
+421,Cris Devil Gamer,Celebrity/ Entertainment,10300000,United States,460500,19.9,669
+422,Pastor Antônio Júnior,Celebrity/ Entertainment,10300000,Brazil,341000,79.9,8800
+423,Pari's Lifestyle,Travel/ Lifestyle,10300000,India,545600,12.1,113
+424,How It Should Have Ended,Celebrity/ Entertainment,10300000,United States,903900,33.9,1300
+425,penguinz0,Celebrity/ Entertainment,10300000,United States,1400000,49.3,2600
+426,SmarterEveryDay,Business/ Tech/ Gaming,10300000,United States,1900000,72.2,4700
+427,Oum Walid,Education,10300000,Algeria,527800,29.4,1600
+428,Lofi Girl,Celebrity/ Entertainment,10300000,United States,96900,3.8,179
+429,Mrwhosetheboss,Business/ Tech/ Gaming,10300000,United States,2700000,152.9,10100
+430,TikTak Draw,Business/ Tech/ Gaming,10300000,Mexico,120900,7.7,345
+431,SagaHits,Celebrity/ Entertainment,10300000,India,45300,1.2,51
+432,Clean Bandit,Celebrity/ Entertainment,10100000,United States,64800,2.1,100
+433,Laurinha e Helena - Clubinho da Laura,Family/ Home/ Parenting,10100000,Brazil,246100,5.7,176
+434,Rawan and Rayan,Travel/ Lifestyle,10100000,Algeria,1000000,61.5,4400
+435,AsapSCIENCE,Business/ Tech/ Gaming,10100000,United States,772000,55.8,1800
+436,Dalas Review,Business/ Tech/ Gaming,10100000,Mexico,684700,82.1,9700
+437,BE AMAZED,Education,10100000,United States,577000,14.1,762
+438,はじめしゃちょー（hajime）,Celebrity/ Entertainment,10100000,Japan,1200000,34.2,1300
+439,Tomorrowland,Celebrity/ Entertainment,10100000,Brazil,19400,914,50
+440,VitalyzdTv,Travel/ Lifestyle,10100000,United States,67900,1.2,236
+441,atv,Celebrity/ Entertainment,10100000,Turkey,41200,420,25
+442,MTV,Celebrity/ Entertainment,10100000,United States,6700,343,23
+443,СТС,Business/ Tech/ Gaming,10100000,Russia,19000,168,13
+444,Hindi Countdown,Education,10100000,India,3600000,89.6,3000
+445,Lorrayne Oliveira,Family/ Home/ Parenting,10100000,Brazil,281500,17.5,502
+446,RDC Gujarati,Celebrity/ Entertainment,10000000,India,26100,808,26
+447,Juice WRLD,Celebrity/ Entertainment,10000000,United States,7600000,308.3,19400
+448,Jordan Matter,Celebrity/ Entertainment,10000000,United States,4900000,137,12500
+449,How Ridiculous,Sports,9900000,United States,25500000,750.3,5200
+450,BCC Gaming,Business/ Tech/ Gaming,9900000,United States,2300,75,8
+451,Mari Maria,Fashion/ Beauty,9900000,Brazil,132100,13.8,436
+452,Joe HaTTab,Travel/ Lifestyle,9900000,Saudi Arabia,3500000,233.2,15900
+453,MSA previously My Story Animated,Celebrity/ Entertainment,9900000,United States,5400000,154,4800
+454,Will Smith,Celebrity/ Entertainment,9900000,United States,332200,10.5,5500
+455,Heroine Movies 2022,Travel/ Lifestyle,9900000,India,151900,1.1,22
+456,Shruti Arjun Anand,Celebrity/ Entertainment,9800000,India,1500000,47.1,1500
+457,Programa Pânico Lab,Family/ Home/ Parenting,9800000,Brazil,22900,1.1,27
+458,Vie Channel - HTV2,Celebrity/ Entertainment,9800000,United States,8500,114,7
+459,KiKiDo,Business/ Tech/ Gaming,9800000,Russia,1700000,44,1500
+460,MBCkpop,Celebrity/ Entertainment,9800000,Philippines,19000,925,87
+461,Receitas de Pai,Food,9800000,Brazil,99000,13,336
+462,Syndicate,Business/ Tech/ Gaming,9800000,United States,157700,4.9,1300
+463,Family Box,Business/ Tech/ Gaming,9800000,Russia,510700,9.7,483
+464,Sơn Tùng M-TP Official,Celebrity/ Entertainment,9800000,United States,61200,4.6,233
+465,OneRepublic,Celebrity/ Entertainment,9700000,United States,9900,749,21
+466,Islam Populer,Education,9700000,Indonesia,82300,2.1,164
+467,Viki Show,Travel/ Lifestyle,9700000,Russia,2800000,109.6,3100
+468,Raditya Dika,Food,9700000,Indonesia,179200,7.8,299
+469,Gustavo Paródias,Travel/ Lifestyle,9700000,Brazil,214500,22,367
+470,Sing King,Celebrity/ Entertainment,9700000,United States,10800,157,17
+471,EugenBro,Business/ Tech/ Gaming,9700000,Russia,724300,36.5,2700
+472,Orkun Işıtmak,Business/ Tech/ Gaming,9600000,Turkey,1700000,75.5,2100
+473,Prince Royce,Celebrity/ Entertainment,9600000,United States,7000000,160.8,3600
+474,Haryanvi Maina,Celebrity/ Entertainment,9600000,India,6300,55,4
+475,Mussoumano,Celebrity/ Entertainment,9600000,Brazil,860500,88.2,3600
+476,Sonotek Haryanvi,Celebrity/ Entertainment,9600000,India,11300,192,21
+477,Bispo Bruno Leonardo,Celebrity/ Entertainment,9600000,Brazil,577900,208.7,139800
+478,Babish Culinary Universe,Food,9600000,United States,817900,34.4,1200
+479,ZarcortGame,Celebrity/ Entertainment,9500000,Mexico,111000,15.3,538
+480,DEL Records,Celebrity/ Entertainment,9500000,Mexico,289000,12.8,200
+481,The Bee Family,Travel/ Lifestyle,9500000,United States,58000,2.6,170
+482,Ben Azelart,Business/ Tech/ Gaming,9500000,United States,2300000,89.3,31100
+483,Talent Recap,Celebrity/ Entertainment,9500000,United States,33500,328,29
+484,Garena Free Fire Brasil,Business/ Tech/ Gaming,9500000,Brazil,200900,3.1,302
+485,InquisitorMaster,Celebrity/ Entertainment,9500000,United States,544300,20.5,1300
+486,Niki and Gabi,Fashion/ Beauty,9500000,United States,485500,25.2,531
+487,TopMovieClips,Celebrity/ Entertainment,9500000,United States,268300,5.4,190
+488,Times Music,Celebrity/ Entertainment,9500000,India,456100,10.3,178
+489,DaBaby,Celebrity/ Entertainment,9500000,United States,976400,36.4,1300
+490,BETO GAMER,Celebrity/ Entertainment,9500000,Brazil,448900,28.1,372
+491,MrStiven Tc,Business/ Tech/ Gaming,9500000,Colombia,671700,66.9,352
+492,Netflix Brasil,Travel/ Lifestyle,9400000,Brazil,23300,1.6,90
+493,Grandpa Kitchen,Food,9400000,United States,162700,8.6,318
+494,Muselk,Business/ Tech/ Gaming,9400000,United States,465500,19.6,636
+495,웃웃TwinsFromRussia,Travel/ Lifestyle,9400000,India,55600,3.6,19
+496,Shemaroo Bhakti,Celebrity/ Entertainment,9400000,India,2800,45,6
+497,The Voice Global,Celebrity/ Entertainment,9400000,United States,320800,4.1,87
+498,POPS MUSIC,Celebrity/ Entertainment,9400000,United States,7700,217,4
+499,CRACKS,Business/ Tech/ Gaming,9400000,Colombia,21300,2,139
+500,efdewe,Celebrity/ Entertainment,9300000,Indonesia,195000,11.2,670
+501,Sonotek Music,Celebrity/ Entertainment,9300000,India,1600000,34.5,1000
+502,FROST,Business/ Tech/ Gaming,9300000,Russia,560500,48.5,1800
+503,rsfriends,Celebrity/ Entertainment,9300000,Thailand,4400,118,12
+504,LetDa Hyper,Celebrity/ Entertainment,9300000,Indonesia,95000,5.2,332
+505,Irmãos Berti,Family/ Home/ Parenting,9300000,Brazil,116300,7,194
+506,Karina Garcia,Travel/ Lifestyle,9300000,United States,220800,9.2,301
+507,PlaticaPolinesia,Celebrity/ Entertainment,9300000,Mexico,38500,3.9,370
+508,Rooster Teeth,Celebrity/ Entertainment,9300000,United States,40800,1.3,136
+509,Soothing Relaxation,Celebrity/ Entertainment,9200000,United States,112300,3.6,258
+510,NFL,Sports,9200000,United States,107300,1.8,206
+511,Troom Troom SELECT,Celebrity/ Entertainment,9200000,United States,342700,4,93
+512,Chetak,Celebrity/ Entertainment,9200000,India,15600,308,10
+513,Denis,Business/ Tech/ Gaming,9200000,United States,194200,9.1,461
+514,FutParódias,Celebrity/ Entertainment,9200000,Brazil,1400000,110.1,2500
+515,EL GATO,Family/ Home/ Parenting,9200000,Brazil,243800,30.7,636
+516,CinemaSins,Celebrity/ Entertainment,9200000,United States,296000,10.2,874
+517,ICC,Sports,9200000,India,15200,854,58
+518,BRKsEDU,Celebrity/ Entertainment,9200000,Brazil,112300,9.8,246

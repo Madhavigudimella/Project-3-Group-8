@@ -1,0 +1,74 @@
+{
+	"info": {
+		"_postman_id": "59bf4fe0-fe8a-4bc8-8954-a0a90e5edc46",
+		"name": "Sm-analytics-api",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "getInfluencerGraph",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:5000/getInfluencerGraph?graphType=instagram&limit=20",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"getInfluencerGraph"
+					],
+					"query": [
+						{
+							"key": "graphType",
+							"value": "instagram"
+						},
+						{
+							"key": "limit",
+							"value": "20"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getinfluencermap",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:5000/getInfluencerMap?graphType=instagram&limit=10",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"getInfluencerMap"
+					],
+					"query": [
+						{
+							"key": "graphType",
+							"value": "instagram"
+						},
+						{
+							"key": "limit",
+							"value": "10"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getchatbot",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
