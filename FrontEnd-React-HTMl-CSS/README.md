@@ -10,9 +10,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-`Change API path before running in "API.js" file.`
+`Change API path to http://localhost:5000/ before running in "API.js" file. If your port 5000 is already in use, change it to http://localhost:5001/ instead. If using 5001, go back to app.py in python-flask-backend folder and change the port from 5000 to 5001.
 
-### `npm start`
+### `npm start` (install node.js if it is nor already installed on your system)
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
